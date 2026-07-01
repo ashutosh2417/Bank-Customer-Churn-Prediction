@@ -4,8 +4,7 @@ numpy
 scikit-learn
 plotly
 matplotlib
-seaborn
 shap
 joblib
-xgboost
 Pillow
+
