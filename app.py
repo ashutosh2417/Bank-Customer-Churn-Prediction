@@ -27,7 +27,7 @@ st.markdown("---")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/European_Bank.csv")
+    return pd.read_csv("European_Bank.csv")
 
 df = load_data()
 # -----------------------------
