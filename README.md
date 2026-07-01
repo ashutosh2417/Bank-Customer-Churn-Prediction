@@ -1,5 +1,7 @@
 # 🏦 Bank Customer Churn Prediction using Machine Learning
 
+Internship_Project
+
 ## 🌐 Live Dashboard
 
 👉 **Try the live application here:**
@@ -208,8 +210,7 @@ Target Variable
 MBA Business Analytics
 
 Amity University Online
-
-Internship Project 
+ 
 ---
 
 ⭐ If you found this project useful, please consider starring the repository.# Bank-Customer-Churn-Prediction
