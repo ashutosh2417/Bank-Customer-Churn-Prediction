@@ -4,8 +4,8 @@ import pandas as pd
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-MODEL_PATH = os.path.join(BASE_DIR, "..", "models", "best_model.pkl")
-PREPROCESSOR_PATH = os.path.join(BASE_DIR, "..", "models", "preprocessor.pkl")
+MODEL_PATH = os.path.join(BASE_DIR, "best_model.pkl")
+PREPROCESSOR_PATH = os.path.join(BASE_DIR, "preprocessor.pkl")
 
 model = joblib.load(MODEL_PATH)
 preprocessor = joblib.load(PREPROCESSOR_PATH)
