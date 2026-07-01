@@ -97,31 +97,28 @@ Users can modify customer information and instantly observe changes in churn pro
 
 ---
 
-# 📷 Dashboard Screenshots
+## 📷 Dashboard Screenshots
 
-## Home Dashboard
+### Home Dashboard
+![Home Dashboard](dashboard_image_1.png)
 
-![Dashboard](images/dashboard_home.png)
+### Probability Distribution
+![Probability Distribution](dashboard_image_2.png)
 
----
+### Age & Balance Distribution
+![Age & Balance Distribution](dashboard_image_3.png)
 
-## Prediction Dashboard
+### Customer Churn Risk Calculator
+![Risk Calculator](dashboard_image_4.png)
 
-![Prediction](images/dashboard_prediction.png)
+### Feature Importance Dashboard
+![Feature Importance](dashboard_image_5.png)
 
----
+### SHAP Visualizations
+![SHAP Visualizations](dashboard_image_6.png)
 
-## Feature Importance
-
-![Feature](images/dashboard_feature.png)
-
----
-
-## What-if Simulator
-
-![Simulator](images/dashboard_whatif.png)
-
----
+### What-if Scenario Simulator
+![What-if Simulator](dashboard_image_7.png)
 
 # 🧠 Machine Learning Workflow
 
