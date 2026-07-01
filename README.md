@@ -11,7 +11,7 @@ https://bank-customer-churn-prediction-4gmwvgujuxk3yxgasmedbt.streamlit.app/
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/YOUR_USERNAME/Bank-Customer-Churn-Prediction
+🔗 https://github.com/ashutosh2417/Bank-Customer-Churn-Prediction
 
 ---
 
