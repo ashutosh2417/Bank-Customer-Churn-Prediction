@@ -1,7 +1,5 @@
 # 🏦 Bank Customer Churn Prediction using Machine Learning
 
-Internship_Project
-
 ## 🌐 Live Dashboard
 
 👉 **Try the live application here:**
@@ -28,6 +26,24 @@ The solution includes an interactive Streamlit dashboard that enables users to:
 - Explore feature importance
 - Perform What-if analysis
 - Visualize customer insights
+
+---
+
+## **🎓 Internship Project**
+
+**This project was successfully completed as part of my Data Analytics Internship at Unified Mentor.**
+
+During this internship, I designed and developed an end-to-end **Bank Customer Churn Prediction System** using Machine Learning and Streamlit. The project involved the complete analytics workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, predictive modeling, model evaluation, and deployment of an interactive web dashboard.
+
+### **Skills Demonstrated**
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning Model Development
+- Model Evaluation
+- Streamlit Dashboard Development
+- GitHub Version Control
+- Cloud Deployment using Streamlit
 
 ---
 
