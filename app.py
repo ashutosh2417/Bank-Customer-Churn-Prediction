@@ -329,7 +329,7 @@ tab1, tab2, tab3 = st.tabs(
 with tab1:
 
     st.image(
-        "images/12_feature_importance.png",
+        "12_feature_importance.png",
         caption="Feature Importance",
         use_container_width=True
     )
@@ -337,7 +337,7 @@ with tab1:
 with tab2:
 
     st.image(
-        "images/13_shap_summary_plot.png",
+        "13_shap_summary_plot.png",
         caption="SHAP Summary Plot",
         use_container_width=True
     )
@@ -345,7 +345,7 @@ with tab2:
 with tab3:
 
     st.image(
-        "images/14_shap_bar_plot.png",
+        "14_shap_bar_plot.png",
         caption="SHAP Bar Plot",
         use_container_width=True
     )
