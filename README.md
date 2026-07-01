@@ -5,7 +5,7 @@
 👉 **Try the live application here:**
 
 **🔗 Streamlit App:**  
-https://YOUR-STREAMLIT-LINK.streamlit.app
+https://bank-customer-churn-prediction-4gmwvgujuxk3yxgasmedbt.streamlit.app/
 
 ---
 
